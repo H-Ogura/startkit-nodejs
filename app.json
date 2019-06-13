@@ -1,5 +1,5 @@
 {
-    "name":"starterkit-nodejs",
+    "name":"startkit-nodejs",
     "env": {
         "TZ":"Asia/Tokyo"
     }
