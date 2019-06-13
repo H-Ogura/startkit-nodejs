@@ -1,0 +1,22 @@
+{
+  "name": "startkit-nodejs",
+  "version": "1.0.0",
+  "description": "Hello Heroku!を画面に表示するだけのアプリケーションをデプロイします。 必要最低限のセットで構成しています。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H-Ogura/startkit-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H-Ogura/startkit-nodejs/issues"
+  },
+  "homepage": "https://github.com/H-Ogura/startkit-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

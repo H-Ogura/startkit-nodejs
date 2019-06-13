@@ -1,0 +1,6 @@
+{
+    "name":"starterkit-nodejs",
+    "env": {
+        "TZ":"Asia/Tokyo"
+    }
+}
